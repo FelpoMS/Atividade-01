@@ -1,0 +1,40 @@
+
+.topo{
+    text-align: center;
+    color: white;
+    
+    
+    
+}
+
+.titulo{
+    font-family:monospace;
+    color: rgb(255, 255, 255);
+}
+
+.foto_perfil{
+    border-radius: 10px;
+    height: 240px;
+    width: 135px;
+    display: flex;
+    margin: auto;
+    
+}
+
+body{
+
+    
+    background: rgb(2,0,36);
+    background: linear-gradient(39deg, rgba(2,0,36,1) 0%, rgba(21,32,210,1) 51%, rgba(37,20,255,1) 53%, rgba(0,212,255,1) 100%);
+    background-attachment: fixed;
+}
+
+.nome{
+    text-align:;
+}
+
+.mylist{
+    
+    display: inline-block;
+    text-align:justify;
+}
